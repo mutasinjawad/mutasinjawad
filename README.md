@@ -16,7 +16,7 @@
 
 
  <div align="center"> 
-  <a href="# ">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=muhtasinjawad1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <div className='flex items-center justify-center lg:p-6 p-4 w-full h-full text-black bg-white lg:rounded-3xl rounded-2xl hover:shadow cursor-pointer transition-all duration-300 ease-in-out'
