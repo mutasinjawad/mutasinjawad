@@ -16,14 +16,9 @@
 
 
  <div align="center"> 
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=muhtasinjawad1@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=muhtasinjawad1@gmail.com" target="_blank" rel="noopener noreferrer" >
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <div className='flex items-center justify-center lg:p-6 p-4 w-full h-full text-black bg-white lg:rounded-3xl rounded-2xl hover:shadow cursor-pointer transition-all duration-300 ease-in-out'
-     onClick={() => {window.open('https://mail.google.com/mail/?view=cm&fs=1&to=biplab_poddar@hotmail.com', '_blank');}}
-      >
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </div>
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
