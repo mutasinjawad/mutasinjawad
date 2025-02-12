@@ -26,8 +26,6 @@
                             );
                         }}
                     >
-                        <h1 className="font-pmedium xl:text-base text-sm text-black xl:mt-4 mt-2">Email</h1>
-                        <span className="font-pregular text-gray-500 xl:text-sm text-[12px] text-center">biplab_poddar@hotmail.com</span>
   </div>
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
